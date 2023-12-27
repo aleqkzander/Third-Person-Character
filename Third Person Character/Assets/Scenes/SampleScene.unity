@@ -450,7 +450,7 @@ MonoBehaviour:
   m_CameraActivatedEvent:
     m_PersistentCalls:
       m_Calls: []
---- !u!1001 &5749350750023467996
+--- !u!1001 &642925482067297974
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -464,7 +464,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1029698564689866720, guid: a8487645aff938e4787cbd78de318d6f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.92999995
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1029698564689866720, guid: a8487645aff938e4787cbd78de318d6f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -476,15 +476,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1029698564689866720, guid: a8487645aff938e4787cbd78de318d6f, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1029698564689866720, guid: a8487645aff938e4787cbd78de318d6f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1029698564689866720, guid: a8487645aff938e4787cbd78de318d6f, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1029698564689866720, guid: a8487645aff938e4787cbd78de318d6f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -514,4 +514,4 @@ SceneRoots:
   - {fileID: 963194228}
   - {fileID: 705507995}
   - {fileID: 154558461}
-  - {fileID: 5749350750023467996}
+  - {fileID: 642925482067297974}
